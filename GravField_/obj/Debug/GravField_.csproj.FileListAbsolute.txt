@@ -1,0 +1,9 @@
+C:\Users\tyler_000\Documents\GitHub\GravField_\GravField_\bin\Debug\GravField_.exe.config
+C:\Users\tyler_000\Documents\GitHub\GravField_\GravField_\obj\Debug\GravField_.csprojResolveAssemblyReference.cache
+C:\Users\tyler_000\Documents\GitHub\GravField_\GravField_\obj\Debug\GravField_.Properties.Resources.resources
+C:\Users\tyler_000\Documents\GitHub\GravField_\GravField_\obj\Debug\GravField_.csproj.GenerateResource.Cache
+C:\Users\tyler_000\Documents\GitHub\GravField_\GravField_\bin\Debug\GravField_.exe
+C:\Users\tyler_000\Documents\GitHub\GravField_\GravField_\bin\Debug\GravField_.pdb
+C:\Users\tyler_000\Documents\GitHub\GravField_\GravField_\obj\Debug\GravField_.exe
+C:\Users\tyler_000\Documents\GitHub\GravField_\GravField_\obj\Debug\GravField_.pdb
+C:\Users\tyler_000\Documents\GitHub\GravField_\GravField_\obj\Debug\GravField_.GravityField.resources
